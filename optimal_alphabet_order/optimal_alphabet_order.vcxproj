@@ -13,7 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{FC1AFD54-4EFE-4E74-8D21-D979252D253D}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>optima_alphabet_order</RootNamespace>
+    <RootNamespace>optimal_alphabet_order</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
